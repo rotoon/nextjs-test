@@ -12,6 +12,8 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+```bash
 State Management ใช้ Libraries zustand
 
 Global Config theme อยู่ในไฟล์ theme/theme
+```
